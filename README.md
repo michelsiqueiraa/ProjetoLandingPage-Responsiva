@@ -1,2 +1,5 @@
 # LandingPage-ResponsivaProjeto1
-Primeiro projeto criado usando html, css e js.
+ Landing Page baseada no projeto do canal do YouTube DEV envolvente.
+ 
+# Linguangens ultilizadas 
+Html, css e js.
